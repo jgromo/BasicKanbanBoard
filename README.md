@@ -1,5 +1,5 @@
 # BasicKanbanBoard
- This is a basic kanban board application using React, Express, and Node. 
+ This is a basic kanban board application using React, Express, and Node. Later versions include MongoDB. 
 
 ![KanbanBoard1](https://github.com/jgromo/BasicKanbanBoard/assets/54650393/86df5081-b89d-4506-aa35-79503323b7eb)
 Task Page:
